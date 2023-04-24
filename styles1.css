@@ -1,0 +1,116 @@
+#mainheading{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 70px;
+    font-family: Lato;
+}
+
+.sectionheading{
+    font-family: Raleway;
+    font-size: 25px;
+    padding: 8px;
+    text-align: center;
+    background-color: #d9d9d9;
+}
+
+.colors{
+    border: 2px solid black;
+    width: 1100px;
+    margin: 40px auto;
+}
+
+.fonts{
+    border: 2px solid black;
+    width: 1100px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.fonts div{
+    display: inline-block;
+    padding: 20px 40px;
+    margin: 0 20px;
+}
+
+.text{
+    border: 2px solid black;
+    width: 1100px;
+    height: 550px;
+    margin: 40px auto;
+}
+
+.text div{
+    padding: 20px 45px;
+}
+
+.text div ul{
+    /* padding: 20px 40px; */
+    font-size: 19px;
+}
+
+.colorscheme{
+    display: inline-block;
+    /* border: 2px black solid; */
+    padding: 20px;
+}
+
+.colorT{
+    background-color: #34526F;
+    height: 125px;
+    width: 240px;
+}
+
+.colorY{
+    background-color: #c4302b;
+    height: 125px;
+    width: 240px;
+}
+
+.colorD{
+    background-color: #3d9ae8;
+    height: 125px;
+    width: 240px;
+}
+
+.colorS{
+    background-color: #ff7700;
+    height: 125px;
+    width: 240px;
+}
+
+.colorscheme h3, .colorscheme p {
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
+
+.colordesc{
+    display: inline-block;
+    line-height: 6.2;
+    margin-left: 25px;
+}
+
+.colordesc p{
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.roboto{
+    font-family: Roboto;
+}
+
+.lato{
+    font-family: Lato;
+}
+
+.raleway{
+    font-family: Raleway;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
